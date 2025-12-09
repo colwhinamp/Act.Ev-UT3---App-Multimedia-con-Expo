@@ -2,7 +2,7 @@
 
 # 🎬 CineApp — Proyecto Final UT3
 
-**Desarrollado por:** [TU NOMBRE] & [NOMBRE DE TU COMPAÑERO]
+**Desarrollado por:** Andrés Peña & Raúl Gonzalez
 
 ## 📱 Descripción
 
